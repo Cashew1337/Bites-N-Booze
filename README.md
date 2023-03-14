@@ -28,7 +28,7 @@ THEN I also see the website providing me with clear and accurate information abo
 
 ## Live URL
 
-To view page [Click here](https://odobashigenci.github.io/Bites-n--booze/homepage.html)
+To view page [Click here](https://cashew1337.github.io/Bites-N-Booze/)
 
 
 ## Image
@@ -44,7 +44,7 @@ Made with [Bulma](https://www.canva.com/design/DAFcGVUwM8Y/bCslbUXi5dP1h_hjxrzU0
 
 ## Credits
 
-Babackground-image made with [Pexels](https://www.pexels.com/)
+Background-image made with [Pexels](https://www.pexels.com/)
 
 Food API made with [ThemealDB](https://www.themealdb.com)
 
