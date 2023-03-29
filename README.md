@@ -28,7 +28,7 @@ THEN I also see the website providing me with clear and accurate information abo
 
 ## Live URL
 
-To view page [Click here](https://cashew1337.github.io/Bites-N-Booze/)
+To view page [Click here](https://cashew1337.github.io/Bites-N-Booze/homepage.html)
 
 
 ## Image
